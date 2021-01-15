@@ -1,0 +1,16 @@
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\bin\Debug\net5.0\Game_2048.exe
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\bin\Debug\net5.0\Game_2048.deps.json
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\bin\Debug\net5.0\Game_2048.runtimeconfig.json
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\bin\Debug\net5.0\Game_2048.runtimeconfig.dev.json
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\bin\Debug\net5.0\Game_2048.dll
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\bin\Debug\net5.0\ref\Game_2048.dll
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\bin\Debug\net5.0\Game_2048.pdb
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\obj\Debug\net5.0\Game_2048.csprojAssemblyReference.cache
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\obj\Debug\net5.0\Game_2048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\obj\Debug\net5.0\Game_2048.AssemblyInfoInputs.cache
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\obj\Debug\net5.0\Game_2048.AssemblyInfo.cs
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\obj\Debug\net5.0\Game_2048.csproj.CoreCompileInputs.cache
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\obj\Debug\net5.0\Game_2048.dll
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\obj\Debug\net5.0\ref\Game_2048.dll
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\obj\Debug\net5.0\Game_2048.pdb
+C:\Users\Renia\RiderProjects\Game_2048\Game_2048\obj\Debug\net5.0\Game_2048.genruntimeconfig.cache
